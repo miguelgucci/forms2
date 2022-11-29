@@ -1,0 +1,38 @@
+
+.bg{
+background:gold;
+background-size: 100% 150%
+
+
+}
+
+.bg1{
+background:url("truck.jpg");
+background-repeat: no-repeat;
+background-size: 118% 130%
+}
+
+.registration {
+color:azure;
+margin-top: 180px;
+margin-left: 200px;
+border-radius: 50px;
+background: transparent;
+width: 300px;
+height: 270px;
+
+}
+
+.registration{
+text-align: center;
+
+}
+
+.home{
+text-align: center;
+color: black;
+margin-top: 250px;
+}
+
+
+
